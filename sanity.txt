@@ -1,2 +1,2 @@
 este es el segundo cambio al curso de git
-Este es un cambio de clase2b1.
+Este es un cambio de clase2b2
